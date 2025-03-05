@@ -9,7 +9,7 @@
 ### 👀 무엇을 했나요?
 - DB - WITH절, 분석함수(AVG, SUM, MAX, COUNT, DENSE_RANK, RANK, ROW_NUMBER, PERCENT_RANK, LAG, LEAD..)
 - Python - 딕셔너리, tuple, def(함수), formatting, requests
-- 연습 예제: 코인 api 활용해서 get() 방식 예제, 원화 to 달러, 달러 to 원화
+- 연습 예제 - 코인 api 활용해서 get() 방식 예제, 원화 to 달러, 달러 to 원화
 		                  사용 입력 번호를 포함 시켜서 로또 번호 생성
 - 개인 프로젝트 quiz page 80% 진행 
 
